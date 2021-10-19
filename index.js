@@ -61,7 +61,7 @@ function addManager() {
       },
       {
         message: "What is the Manager's office",
-        name: "office number",
+        name: "officeNumber",
         type: "input",
       },
     ])
