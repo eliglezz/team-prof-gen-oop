@@ -7,7 +7,7 @@ Created to automate the creation of employee/team member cards. This was made us
 ## Installation
 Fork the repo, Clone the repo, then run `node index.js` in the terminal. Follow the prompt and enter each member of the team. An `index.html` file will appear in the dist folder.<br>
 ## Demo
-![]()
+![Team](https://user-images.githubusercontent.com/61998811/137865702-c443d801-cd51-47b1-a674-36cbbbbe174f.gif)
 ## Contact Me <br>
 ### username: @eliglezz<br>
 ### email: glez.eliezer@gmail.com<br>
